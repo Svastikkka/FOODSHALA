@@ -151,7 +151,7 @@ img {
         <div class="card_image"><img src="https://picsum.photos/500/300/?image=10"></div>
         <div class="card_content">
           <h2 class="card_title">USER LOGIN</h2>
-          <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+          <p class="card_text">LOGIN SYSTEM</p>
           <a href="user/login.php"><button class="btn card_btn">Login</button></a>
         </div>
       </div>
@@ -161,7 +161,7 @@ img {
         <div class="card_image"><img src="https://picsum.photos/500/300/?image=5"></div>
         <div class="card_content">
           <h2 class="card_title">RESTAURANTS LOGIN</h2>
-          <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+          <p class="card_text">LOGIN SYSTEM</p>
           <a href="rasturant/login.php"><button class="btn card_btn">Login</button></a>
         </div>
       </div>
@@ -171,11 +171,21 @@ img {
         <div class="card_image"><img src="https://picsum.photos/500/300/?image=11"></div>
         <div class="card_content">
           <h2 class="card_title">ADMIN LOGIN</h2>
-          <p class="card_text">Demo of pixel perfect pure CSS simple responsive card grid layout</p>
+          <p class="card_text">LOGIN SYSTEM</p>
           <a href="Admin/login.php"><button class="btn card_btn">Login</button></a>
         </div>
       </div>
     </li>
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="https://picsum.photos/500/300/?image=11"></div>
+        <div class="card_content">
+          <h2 class="card_title">Menu</h2>
+          <p class="card_text">MENU SYSTEM</p>
+          <a href="menu/menu.php"><button class="btn card_btn">Menu</button></a>
+        </div>
+      </div>
+    </li>    
   </ul>
 </div>
 
